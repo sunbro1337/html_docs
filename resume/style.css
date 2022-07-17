@@ -1,0 +1,54 @@
+* {
+  box-sizing: content-box;
+  font-family: 'Cousine';
+}
+
+.sol-light {
+  background-color: rgb(253, 246, 227);
+  color: rgb(101, 123, 131);
+}
+
+.sol-light h3 {
+  color: #859900;
+}
+
+.sol-light h4 {
+  color: rgb(33, 139, 210);
+}
+
+.sol-light h6 {
+  color: #2aa198;
+}
+
+.sol-light small {
+  color: #2aa198;
+}
+
+.sol-light a {
+  color: #cb4b16;
+}
+
+.sol-dark {
+  background-color: rgb(7, 54, 66);
+  color: rgb(147, 161, 161);
+}
+
+.sol-dark h3 {
+  color: #859900;
+}
+
+.sol-dark h4 {
+  color: rgb(33, 139, 210);
+}
+
+.sol-dark h6 {
+  color: #2aa198;
+}
+
+.sol-dark small {
+  color: #2aa198;
+}
+
+.sol-dark a {
+  color: #cb4b16;
+}
