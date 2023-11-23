@@ -52,3 +52,33 @@
 .sol-dark a {
   color: #cb4b16;
 }
+
+.origami-light {
+  background-color: #ffffff;
+  color: #242935;
+}
+
+.origami-dark {
+  background-color: #242935;
+  color: #ffffff;
+}
+
+.origami h3 {
+  color: #07080c;
+}
+
+.origami h4 {
+  color: #16151a;
+}
+
+.origami h6 {
+  color: #a7a9ab;
+}
+
+.origami small {
+  color: #a7a9ab;
+}
+
+.origami a {
+  color: #151716;
+}
